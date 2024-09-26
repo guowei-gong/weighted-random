@@ -2,7 +2,7 @@
 当我们从某种容器中随机选择一个元素，每个元素被选中的机会并不相等，而是由相对 “权重”（或概率）被选中的，也就是说我们想要有 “偏心” 的得到某种随机结果。
 
 ## 🏄🏻 配合博客教程食用
-- [加权随机设计与实现](https://weizicoding.cn/index.php/archives/3/)
+- [加权随机设计与实现](https://weizicoding.cn/index.php/archives/10/)
 
 ## 🚧 TODO
 - 支持泛型
